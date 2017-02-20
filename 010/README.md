@@ -1,6 +1,12 @@
 # Daily UI: 010
 
-**Task**: Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.
+**Task**
+
+Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.
+
+**Time**
+
+~50 minutes
 
 **Software Used**
 * [Sketch](https://www.sketchapp.com/)
