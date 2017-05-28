@@ -1,0 +1,25 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "deviceType" : "apple-iphone-7-plus-silver",
+  "projectId" : "D48959D5-61C2-4D2A-B11E-A7310F912396",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+    "{1, 306}",
+    "{308, 317}",
+    "{626, 906}",
+    "{1533, 470}",
+    "{2004, 744}",
+    "{2749, 588}",
+    "{3338, 618}",
+    "{3957, 333}"
+  ],
+  "deviceScale" : "fit"
+}

@@ -1,0 +1,397 @@
+[
+	{
+		"objectId": "5FF80F57-3E56-46A0-BF37-EB46FB758CF9",
+		"kind": "artboard",
+		"name": "$018",
+		"originalName": "018",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 259,
+			"y": 180,
+			"width": 312,
+			"height": 390
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(19, 19, 23, 1)",
+		"children": [
+			{
+				"objectId": "46B921CB-3804-4B44-BC51-E4EF8CA331A8",
+				"kind": "text",
+				"name": "Logo",
+				"originalName": "Logo",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 94,
+					"y": 3,
+					"width": 122,
+					"height": 49
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1,
+					"string": "goalKEEP",
+					"css": [
+						"/* Logo: */",
+						"font-family: SFUIText-Semibold;",
+						"font-size: 20px;",
+						"color: #F5F5F9;",
+						"letter-spacing: 0;",
+						"text-shadow: 0 2px 16px rgba(0,0,0,0.30);"
+					]
+				},
+				"image": {
+					"path": "images/Layer-Logo-ndzcotix.png",
+					"frame": {
+						"x": 94,
+						"y": 3,
+						"width": 122,
+						"height": 49
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "DC9840DC-0EF1-4C58-A213-1A99D29E49F7",
+				"kind": "group",
+				"name": "Values",
+				"originalName": "Values",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 47,
+					"y": 80,
+					"width": 226,
+					"height": 18
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Values-rem5odqw.png",
+					"frame": {
+						"x": 47,
+						"y": 80,
+						"width": 226,
+						"height": 18
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "F22DDA35-2BB3-4975-A233-B759EF2C4D97",
+				"kind": "group",
+				"name": "Icons",
+				"originalName": "Icons",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 52,
+					"y": 149,
+					"width": 208,
+					"height": 31
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "EA2C8DC8-F72E-475B-9F39-2157F094080D",
+						"kind": "group",
+						"name": "Water",
+						"originalName": "Water",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 52,
+							"y": 149,
+							"width": 22,
+							"height": 30
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Water-rueyqzhe.png",
+							"frame": {
+								"x": 52,
+								"y": 149,
+								"width": 22,
+								"height": 30
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "2A927ACA-7DD9-43DF-9806-D4CF86640265",
+						"kind": "group",
+						"name": "Steps",
+						"originalName": "Steps",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 145,
+							"y": 155,
+							"width": 22,
+							"height": 25
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Steps-mke5mjdb.png",
+							"frame": {
+								"x": 145,
+								"y": 155,
+								"width": 22,
+								"height": 25
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "923C7B7D-9B8F-44B8-8B01-184758639CBA",
+						"kind": "group",
+						"name": "Calories",
+						"originalName": "Calories",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 238,
+							"y": 151,
+							"width": 22,
+							"height": 27
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Calories-otizqzdc.png",
+							"frame": {
+								"x": 238,
+								"y": 151,
+								"width": 22,
+								"height": 27
+							}
+						},
+						"children": [
+							{
+								"objectId": "392AA50A-93A2-4188-BAEB-27BB180DC17A",
+								"kind": "group",
+								"name": "Group_3",
+								"originalName": "Group 3",
+								"maskFrame": {
+									"x": -9.053236007375119e-8,
+									"y": 0.014380699788835558,
+									"width": 21.98948104962968,
+									"height": 20.471449259725336
+								},
+								"layerFrame": {
+									"x": 238,
+									"y": 156.99999999999997,
+									"width": 22,
+									"height": 21
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Group_3-mzkyque1.png",
+									"frame": {
+										"x": 238,
+										"y": 156.99999999999997,
+										"width": 22,
+										"height": 21
+									}
+								},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"objectId": "BA07EDC0-4307-4651-B070-387F33099310",
+				"kind": "group",
+				"name": "Labels",
+				"originalName": "Labels",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 55,
+					"y": 290,
+					"width": 202,
+					"height": 80
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Labels-qkewn0ve.png",
+					"frame": {
+						"x": 55,
+						"y": 290,
+						"width": 202,
+						"height": 80
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "74D657C0-83AF-4066-8322-5766733FE647",
+				"kind": "group",
+				"name": "Current",
+				"originalName": "Current",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 21,
+					"y": 180,
+					"width": 270,
+					"height": 504
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "567E576F-B29F-4352-A32B-2F19B0204170",
+						"kind": "group",
+						"name": "Water1",
+						"originalName": "Water",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 21,
+							"y": 230,
+							"width": 84,
+							"height": 424
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Water-nty3rtu3.png",
+							"frame": {
+								"x": 21,
+								"y": 230,
+								"width": 84,
+								"height": 424
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "D1E2077A-0B4D-492A-972C-95B6F411D91B",
+						"kind": "group",
+						"name": "Steps1",
+						"originalName": "Steps",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 114,
+							"y": 260,
+							"width": 84,
+							"height": 424
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Steps-rdffmja3.png",
+							"frame": {
+								"x": 114,
+								"y": 260,
+								"width": 84,
+								"height": 424
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "E6C3646A-1D9D-4337-89C9-D1473103F208",
+						"kind": "group",
+						"name": "Calories1",
+						"originalName": "Calories",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 207,
+							"y": 180,
+							"width": 84,
+							"height": 424
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Calories-rtzdmzy0.png",
+							"frame": {
+								"x": 207,
+								"y": 180,
+								"width": 84,
+								"height": 424
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "AB86B84F-A25A-4BB3-A838-45517B6A7C7F",
+				"kind": "group",
+				"name": "Goals",
+				"originalName": "Goals",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 36,
+					"y": 120,
+					"width": 240,
+					"height": 400
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Goals-qui4nki4.png",
+					"frame": {
+						"x": 36,
+						"y": 120,
+						"width": 240,
+						"height": 400
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "E528D90B-D342-4F6C-BB8A-63D7F3F4CBDF",
+				"kind": "group",
+				"name": "Background",
+				"originalName": "Background",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 312,
+					"height": 390
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Background-rtuyoeq5.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 312,
+						"height": 390
+					}
+				},
+				"children": []
+			}
+		]
+	}
+]

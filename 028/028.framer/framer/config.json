@@ -1,0 +1,26 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "deviceType" : "apple-iphone-7-plus-gold",
+  "projectId" : "9321C5E9-95B7-4032-B5A9-7A09439245AD",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+    "{1, 225}",
+    "{227, 104}",
+    "{332, 753}",
+    "{1086, 742}",
+    "{1829, 1358}",
+    "{3188, 541}",
+    "{3730, 495}",
+    "{4226, 459}",
+    "{4686, 296}"
+  ],
+  "deviceScale" : "fit"
+}

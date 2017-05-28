@@ -1,0 +1,191 @@
+[
+	{
+		"objectId": "5FF80F57-3E56-46A0-BF37-EB46FB758CF9",
+		"kind": "artboard",
+		"name": "$018",
+		"originalName": "018",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 259,
+			"y": 180,
+			"width": 312,
+			"height": 390
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(19, 19, 23, 1)",
+		"image": {
+			"path": "images/Layer-$018-nuzgodbg.png",
+			"frame": {
+				"x": 259,
+				"y": 180,
+				"width": 312,
+				"height": 390
+			}
+		},
+		"children": [
+			{
+				"objectId": "DC9840DC-0EF1-4C58-A213-1A99D29E49F7",
+				"kind": "group",
+				"name": "Values",
+				"originalName": "Values",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 47,
+					"y": 80,
+					"width": 226,
+					"height": 18
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Values-rem5odqw.png",
+					"frame": {
+						"x": 47,
+						"y": 80,
+						"width": 226,
+						"height": 18
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "2A927ACA-7DD9-43DF-9806-D4CF86640265",
+				"kind": "group",
+				"name": "Steps",
+				"originalName": "Steps",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 145,
+					"y": 155,
+					"width": 22,
+					"height": 25
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Steps-mke5mjdb.png",
+					"frame": {
+						"x": 145,
+						"y": 155,
+						"width": 22,
+						"height": 25
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "BA07EDC0-4307-4651-B070-387F33099310",
+				"kind": "group",
+				"name": "Labels",
+				"originalName": "Labels",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 55,
+					"y": 290,
+					"width": 202,
+					"height": 80
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Labels-qkewn0ve.png",
+					"frame": {
+						"x": 55,
+						"y": 290,
+						"width": 202,
+						"height": 80
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "74D657C0-83AF-4066-8322-5766733FE647",
+				"kind": "group",
+				"name": "Current",
+				"originalName": "Current",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 21,
+					"y": 180,
+					"width": 270,
+					"height": 504
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Current-nzrenju3.png",
+					"frame": {
+						"x": 21,
+						"y": 180,
+						"width": 270,
+						"height": 504
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "AB86B84F-A25A-4BB3-A838-45517B6A7C7F",
+				"kind": "group",
+				"name": "Goals",
+				"originalName": "Goals",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 36,
+					"y": 120,
+					"width": 240,
+					"height": 400
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Goals-qui4nki4.png",
+					"frame": {
+						"x": 36,
+						"y": 120,
+						"width": 240,
+						"height": 400
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "E528D90B-D342-4F6C-BB8A-63D7F3F4CBDF",
+				"kind": "group",
+				"name": "Background",
+				"originalName": "Background",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 312,
+					"height": 390
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Background-rtuyoeq5.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 312,
+						"height": 390
+					}
+				},
+				"children": []
+			}
+		]
+	}
+]
